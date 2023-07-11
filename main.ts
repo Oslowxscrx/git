@@ -3,7 +3,7 @@ const tres: number = 3
 class Persona {
     name: string;
 
-    constructor(){
-        
+    constructor(name: string){
+        name = name
     }
 }
