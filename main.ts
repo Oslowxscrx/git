@@ -1,0 +1,1 @@
+const tres: number = 3
